@@ -1,0 +1,6 @@
+package com.sapient_todo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
